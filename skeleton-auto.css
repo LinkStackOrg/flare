@@ -16,9 +16,6 @@
 */
 
 
-@import url('https://fonts.bunny.net/css?family=Roboto:400,700&display=swap');
-
-
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
@@ -60,16 +57,6 @@
   /* NOTE
   html is set to 62.5% so that all the REM measurements throughout Skeleton
   are based on 10px sizing. So basically 1.5rem = 15px :) */
-
-  html {
-    font-size: 100%; }
-
-  :root {
-    --bgColor: #f5af19;
-    --bgColor2: #f12711;
-    --accentColor: #FFF;
-    --font: 'Roboto', sans-serif;
-    --delay: .3s; }
 
   /* Background
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
